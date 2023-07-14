@@ -1,0 +1,13 @@
+vehicle
+truck
+schoollBus
+otherCar
+trafficLight
+trafficSign
+bicycle
+pedestrian
+twoWheeler
+bus
+motorcycle
+ambulance
+policeCar

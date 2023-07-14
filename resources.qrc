@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/button_icons">
+        <file>src/play_b.png</file>
+        <file>src/stop_b.png</file>
+    </qresource>
+</RCC>
